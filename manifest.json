@@ -13,8 +13,8 @@
   },
   "theme": {
     "colors": {
-      "background_tab": [26, 27, 38],
-      "background_tab_inactive": [26, 27, 38],
+      "background_tab": [36, 40, 58],
+      "background_tab_inactive": [36, 40, 58],
       "background_tab_incognito": [65, 72, 104],
       "background_tab_incognito_inactive": [41, 46, 66],
       "bookmark_text": [122, 162, 247],
@@ -34,7 +34,7 @@
       "tab_background_text_inactive": [169, 177, 214],
       "tab_background_text_incognito": [169, 177, 214],
       "tab_background_text_incognito_inactive": [154, 165, 206],
-      "toolbar": [36, 40, 58],
+      "toolbar": [26, 27, 38],
       "toolbar_button_icon": [247, 118, 142],
       "toolbar_text": [247, 118, 142]
     },
